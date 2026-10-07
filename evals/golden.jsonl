@@ -1,0 +1,11 @@
+{"id": "estrela-ferias-antecedencia", "token": "tok-ana", "question": "Com quantos dias de antecedência preciso pedir férias?", "expected_sources": ["ferias"], "required_terms": ["30 dias"]}
+{"id": "estrela-ferias-venda", "token": "tok-carlos", "question": "Posso vender parte das férias?", "expected_sources": ["ferias"], "required_terms": ["10 dias"]}
+{"id": "estrela-vale-refeicao-valor", "token": "tok-ana", "question": "Qual o valor do vale-refeição?", "expected_sources": ["vale-refeicao"], "required_terms": ["R$ 35,00"]}
+{"id": "estrela-plano-coparticipacao", "token": "tok-carlos", "question": "Qual a coparticipação do plano de saúde em consultas?", "expected_sources": ["plano-saude"], "required_terms": ["20%"]}
+{"id": "estrela-saldo-ferias-ana", "token": "tok-ana", "question": "Quantos dias de férias eu tenho?", "expected_sources": [], "required_terms": ["18 dias"]}
+{"id": "boreal-ferias-coletivas", "token": "tok-bruno", "question": "A empresa dá férias coletivas no fim de ano?", "expected_sources": ["ferias"], "required_terms": ["10 dias"]}
+{"id": "boreal-vale-alimentacao-valor", "token": "tok-daniela", "question": "Qual o valor do vale-alimentação?", "expected_sources": ["vale-alimentacao"], "required_terms": ["R$ 900,00"]}
+{"id": "boreal-dependentes-idade", "token": "tok-bruno", "question": "Até que idade os filhos podem ser dependentes no plano de saúde?", "expected_sources": ["plano-saude"], "required_terms": ["24 anos"]}
+{"id": "boreal-auxilio-home-office", "token": "tok-daniela", "question": "Qual o valor do auxílio home office?", "expected_sources": ["home-office"], "required_terms": ["R$ 150,00"]}
+{"id": "boreal-beneficios-bruno", "token": "tok-bruno", "question": "Quais benefícios eu tenho ativos?", "expected_sources": [], "required_terms": ["auxílio home office"]}
+{"id": "boreal-sem-informacao", "token": "tok-daniela", "question": "A empresa paga participação nos lucros?", "expected_sources": [], "required_terms": ["Não encontrei"]}
